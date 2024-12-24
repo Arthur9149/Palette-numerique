@@ -6,7 +6,7 @@ This script extracts colors from artworks on WikiArt and generates an SVG palett
 
 /FR/
 
-Ce script extrait les couleurs des oeuvres d'art sur WikiArt et génère une palette SVG. Merci d'utiliser mon script, il a été créé dans le cadre d'un projet personnel, afin d'essayer de résumer les couleurs utilisées dans les œuvres d'art, car la réalité ne se résume pas. Il suffit de lancer le code, puis d'entrer le nom de l'artiste (Marche en majuscules ET en minuscules), le chemin du dossier contenant les fichiers, si vous souhaitez télécharger les images des oeuvres, choisir la classification des couleurs et si vous voulez les titres en anglais ou en français. Le script python contient des docstrings donc vous pouvez utiliser la commande _help()_.⊹╰(⌣ʟ⌣)╯⊹
+Ce script extrait les couleurs des oeuvres d'art sur WikiArt et génère une palette SVG. Merci d'utiliser mon script, il a été créé dans le cadre d'un projet personnel, afin d'essayer de résumer les couleurs utilisées dans les œuvres d'art, car la réalité ne se résume pas. Il suffit de lancer le code, puis d'entrer le nom de l'artiste (Marche en majuscules ET en minuscules), le chemin du dossier contenant les fichiers, si vous souhaitez télécharger les images des oeuvres, choisir la classification des couleurs et si vous voulez les titres en anglais ou en français. Le script python contient des docstrings donc vous pouvez utiliser la commande _help()_. ⊹╰(⌣ʟ⌣)╯⊹
 
 ## License
 
