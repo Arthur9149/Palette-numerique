@@ -1,0 +1,34 @@
+/EN/
+
+Hello, thanks to use my script, its based on WikiArt database. The goal was to create a digital palette from the artist. You just have to enter the name of the artist you want the digital palette (lowercase AND uppercase works), then the path folder for th files which will be created :
+
+dl_images : a folder which contains the artworks images
+artworks_titles : a .txt file which contains the titles of the artworks used for the palette
+artworks_webpage_urls : a .json file which contains all urls of the artworks (not very useful in most of cases)
+hex_codes_list : a .txt file which contains all hexadecimals codes of the colors of the palette
+palette_{color_mode} : a .svg file which contains all the primary color of each artworks. Each color is a square of 100x100 pixels. 3 modes of classification :
+ -> basic : in the order of the artworks
+ -> shade : by shade
+ -> luminance : by luminance
+
+Then enter the mode wanted and the language of the titles, enjoy !
+
+
+
+/FR/
+
+Bonjour, merci d'utiliser mon script python, il est basé sur le site de WikiArt et donc contraint à leur base de données. Le but était de créer une palette digitale de l'artiste que vous souhaitez (les minuscules ET les majuscules marchent). Vous avez juste à entrer le nom du dit artiste, le chemin du dossier qui contiendra les futurs fichiers :
+
+dl_images : un dossier qui contient les images des oeuvres
+artworks_titles : un fichier .txt qui contient tous les titres des oeuvres
+artworks_webpage_urls : un fichier .json qui contient tous les liens vers les oeuvres (pas très utile dans la majorité des cas)
+hex_codes_list : un fichier .txt qui contient tous les codes hexadécimaux des couleurs des oeuvres
+palette_{color_mode} : un fichier .svg qui contient toutes les couleurs et crée donc une palette. Chaque couleur fait un carré de 100 pixels de côté. 3 modes de classification des couleurs :
+ -> basic : dans l'ordre des oeuvres
+ -> shade : par teinte
+ -> luminance : par luminosité
+
+Ensuite, entrer le mode mode choisi et la langue choisie pour les titres des oeuvres (certains titres ne sont pas traduits en français), profitez !
+
+
+
