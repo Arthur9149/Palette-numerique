@@ -1,4 +1,4 @@
-# Palette 
+# Palette Numérique
 
 /EN/
 
